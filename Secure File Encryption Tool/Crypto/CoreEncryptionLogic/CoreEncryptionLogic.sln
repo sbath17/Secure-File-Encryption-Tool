@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36631.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreEncryptionLogic", "CoreEncryptionLogic.csproj", "{88FF00EC-EDB0-4B50-A9B5-ABFB1D95AF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88FF00EC-EDB0-4B50-A9B5-ABFB1D95AF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FF00EC-EDB0-4B50-A9B5-ABFB1D95AF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FF00EC-EDB0-4B50-A9B5-ABFB1D95AF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FF00EC-EDB0-4B50-A9B5-ABFB1D95AF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83905C42-B37A-400D-A70F-3A687693D166}
+	EndGlobalSection
+EndGlobal
