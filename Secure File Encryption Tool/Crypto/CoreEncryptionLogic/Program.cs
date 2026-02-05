@@ -1,4 +1,5 @@
-﻿using System;
+//This is Secure File Encryption Tool
+using System;
 using System.IO;
 using System.Security.Cryptography;
 using System.Text;
@@ -66,4 +67,5 @@ namespace SecureFileEncryptor.Crypto
             File.WriteAllBytes(outputPath, plaintext);
         }
     }
+
 }
